@@ -14,9 +14,9 @@ var backImg;
 
 function preload()
 {
-  dogImg=loadImage("images/dogImg.png")
-  happyDogImg =loadImage("images/dogImg1.png")
-  backImg = loadImage("images/backImg.jpg")
+  dogImg=loadImage("dogImg.png")
+  happyDogImg =loadImage("dogImg1.png")
+  backImg = loadImage("backImg.jpg")
   
 }
 
